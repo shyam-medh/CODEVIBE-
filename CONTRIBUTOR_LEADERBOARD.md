@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `shyam-medh/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-06-11
+Last updated: 2026-06-12
 
 ## Scoring
 
@@ -33,7 +33,7 @@ Last updated: 2026-06-11
 | 17 | [@ArshiBansal](https://github.com/ArshiBansal) | 10 | 5 | 0 | 0 |
 | 18 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 10 | 5 | 0 | 0 |
 | 19 | [@jagrati7305](https://github.com/jagrati7305) | 10 | 5 | 0 | 0 |
-| 20 | [@StarDustNova-57](https://github.com/StarDustNova-57) | 10 | 5 | 0 | 0 |
+| 20 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 10 | 5 | 0 | 0 |
 | 21 | [@vasheekhan](https://github.com/vasheekhan) | 10 | 5 | 0 | 0 |
 | 22 | [@YASHcode-IIITV](https://github.com/YASHcode-IIITV) | 10 | 5 | 0 | 0 |
 | 23 | [@anujsharma8d](https://github.com/anujsharma8d) | 8 | 4 | 0 | 0 |
